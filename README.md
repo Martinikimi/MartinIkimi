@@ -21,6 +21,8 @@ I’m a fearless innovator and lifelong learner, turning bold ideas into solutio
 🔹 Skilled in Python, JavaScript, React, Node.js, and database systems
 
 🔹 Driven to solve real-world problems, contribute to impactful projects, and explore emerging technologies
+
+
 ---
 
 ## 🛠️ Technical Skills
