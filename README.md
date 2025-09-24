@@ -1,5 +1,6 @@
 <!-- Header Section -->
 <div align="center">
+<img src="assets/Profile.jpg" alt="Profile Image" width="150" style="border-radius:50%;"/>
 
 # 👋 Hello, I'm Martin Ikimi
 
