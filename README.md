@@ -1,8 +1,12 @@
 <!-- Header Section -->
 <div align="center">
+<div align="center">
+
 # 👋 Hello, I'm Martin Ikimi
 
-### 💻 [Your Role] | 🌍 [Your Location] | 🚀 [Your Tagline]
+### 💻 Full-Stack Developer | 🌍 Nairobi, Kenya | 🚀 Building dope tech that solve universal pain points
+
+</div>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/martin-ikimi7)
@@ -113,10 +117,8 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 <div align="center">
 
 ### ⭐ Fun Fact
-[### ⭐ Fun Fact
-I turn bold ideas into small tech experiments just for the thrill of building.
-!]
+[I turn bold ideas into small tech experiments just for the thrill of building.!]
 
-*Thanks for visiting my profile!* 😄
+*Thanks for visiting my profile!* 
 
 </div>
