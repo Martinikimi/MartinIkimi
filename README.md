@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
 
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [Martin Ikimi]
 
 ### 💻 [Your Role] | 🌍 [Your Location] | 🚀 [Your Tagline]
 
