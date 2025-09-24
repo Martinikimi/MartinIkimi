@@ -1,9 +1,9 @@
 <!-- Header Section -->
 <div align="center">
 
-# 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+[Your+Name]" alt="Typing Animation"/>
+# 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+[Martin Kimani]" alt="Typing Animation"/>
 
-### 💻 [Your Role] | 🌍 [Your Location] | 🚀 [Your Tagline]
+### 💻 [Your Role] | 🌍 [Nairobi,Kenya] | 🚀 [Your Tagline]
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/yourprofile)
