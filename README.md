@@ -66,7 +66,12 @@ I’m a fearless innovator and lifelong learner, turning bold ideas into solutio
 
 | My GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact) |
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martinikimi&show_icons=true&theme=radical)
+
+### 🧠 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Martinikimi&layout=compact&theme=radical)
+
 
 </div>
 
