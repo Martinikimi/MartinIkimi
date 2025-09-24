@@ -80,26 +80,23 @@ I’m a fearless innovator and lifelong learner, turning bold ideas into solutio
 ## 🏆 Featured Projects
 
 ### 🎯 [Project One](https://github.com/YOUR_USERNAME/project-one)
-Short description of what this project does and why it's cool.  
-- **Tech:** React, Node.js, MongoDB  
-- **Features:** Feature 1, Feature 2, Feature 3  
-- **Status:** ✅ Completed / 🚧 In Progress  
+  
 
 ### 🚀 [Project Two](https://github.com/YOUR_USERNAME/project-two)
-Short description of what this project does and why it's cool.  
-- **Tech:** Vue.js, Express, PostgreSQL  
-- **Features:** Feature 1, Feature 2, Feature 3  
-- **Status:** ✅ Completed / 🚧 In Progress  
+ 
 
 ---
 
 ## 📈 Currently Learning
 
+- [ ] Django & Django REST Framework  
 - [ ] Machine Learning with Python  
 - [ ] Cloud Architecture on AWS  
 - [ ] Advanced React Patterns  
 - [ ] System Design Principles  
-
+- [ ] Next.js & Server-Side Rendering  
+- [ ] DevOps Practices & CI/CD  
+- [ ] PostgreSQL & NoSQL Databases  
 ---
 
 ## 📫 Let's Connect
@@ -116,7 +113,9 @@ I'm always open to discussing new opportunities, collaborations, or just chattin
 <div align="center">
 
 ### ⭐ Fun Fact
-[Insert an interesting fun fact about yourself here!]
+[### ⭐ Fun Fact
+I turn bold ideas into small tech experiments just for the thrill of building.
+!]
 
 *Thanks for visiting my profile!* 😄
 
