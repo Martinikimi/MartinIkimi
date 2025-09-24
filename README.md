@@ -5,7 +5,7 @@
 ### 💻 [Your Role] | 🌍 [Your Location] | 🚀 [Your Tagline]
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](www.linkedin.com/in/martin-ikimi7)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/martin-ikimi7)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:martinikimi7@gmail.com)
 
 </div>
