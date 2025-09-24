@@ -14,21 +14,13 @@
 
 ## 📖 About Me
 
-📖 About Me
+I’m a fearless innovator and lifelong learner, turning bold ideas into solutions that uplift people and push boundaries. With a background in Infrastructure and Construction Engineering, I combine practical problem-solving with technology to create real impact.
 
-I’m a fearless innovator, builder, and lifelong learner. I thrive on turning bold ideas into tangible solutions that uplift people and push boundaries. With a professional background in Infrastructure and Construction Engineering, I bridge practical problem-solving with technology to create impact.
+🔹 Passionate about full-stack development, automation, and scalable applications
 
-What drives me:
+🔹 Skilled in Python, JavaScript, React, Node.js, and database systems
 
-🎯 Tackling real-world problems with creative, tech-driven solutions
-
-🌱 Learning relentlessly and expanding my skills every day
-
-🤝 Uplifting others, collaborating, and fostering fearless growth
-
-💡 Building projects that make life easier, smarter, and more meaningful
-
-🚀 Living boldly and fearlessly, while inspiring others to do the same
+🔹 Driven to solve real-world problems, contribute to impactful projects, and explore emerging technologies
 ---
 
 ## 🛠️ Technical Skills
