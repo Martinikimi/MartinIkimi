@@ -1,14 +1,12 @@
 <!-- Header Section -->
 <div align="center">
-<img src="assets/Profile.jpeg" alt="Profile Image" width="150" style="border-radius:50%;"/>
-
 # 👋 Hello, I'm Martin Ikimi
 
 ### 💻 [Your Role] | 🌍 [Your Location] | 🚀 [Your Tagline]
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](www.linkedin.com/in/martin-ikimi7)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](martinikimi7@gmail.com)
 
 </div>
 
