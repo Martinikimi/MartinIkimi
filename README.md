@@ -14,14 +14,21 @@
 
 ## 📖 About Me
 
-I'm a passionate developer who loves creating innovative solutions. With [X] years of experience in [your specialties], I enjoy turning complex problems into simple, beautiful solutions.
+📖 About Me
 
-**What drives me:**  
-- 🎯 Solving real-world problems with code  
-- 🌱 Continuous learning and growth  
-- 🤝 Collaborating with amazing developers  
-- 💡 Building products that make a difference  
+I’m a fearless innovator, builder, and lifelong learner. I thrive on turning bold ideas into tangible solutions that uplift people and push boundaries. With a professional background in Infrastructure and Construction Engineering, I bridge practical problem-solving with technology to create impact.
 
+What drives me:
+
+🎯 Tackling real-world problems with creative, tech-driven solutions
+
+🌱 Learning relentlessly and expanding my skills every day
+
+🤝 Uplifting others, collaborating, and fostering fearless growth
+
+💡 Building projects that make life easier, smarter, and more meaningful
+
+🚀 Living boldly and fearlessly, while inspiring others to do the same
 ---
 
 ## 🛠️ Technical Skills
