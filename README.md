@@ -96,8 +96,8 @@ Short description of what this project does and why it's cool.
 I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
 
 **Best ways to reach me:**  
-- Email: [your.email@domain.com](mailto:your.email@domain.com)  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+- Email: [your.email@domain.com](martinikimi7@gmail.com)  
+- LinkedIn: [Your Profile](www.linkedin.com/in/martin-ikimi7)  
 - Portfolio: [Your Website](https://yourportfolio.com)  
 
 ---
