@@ -79,10 +79,10 @@ I’m a fearless innovator and lifelong learner, turning bold ideas into solutio
 ## 🏆 Featured Projects  
 
 ### 🎯 [Project One](https://github.com/YOUR_USERNAME/project-one)  
-*Brief description of what this project does and why it’s cool.*  
+
 
 ### 🚀 [Project Two](https://github.com/YOUR_USERNAME/project-two)  
-*Another description showcasing your skills & creativity.*  
+ 
 
 ---
 
@@ -106,7 +106,7 @@ I’m always open to discussing new opportunities, collaborations, or just chatt
 **Best ways to reach me:**  
 - 📧 Email: martinikimi7@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/martin-ikimi7  
-- 🌐 Portfolio: [Your Website](https://yourportfolio.com)  
+- 🌐 Portfolio:  
 
 ---
 
