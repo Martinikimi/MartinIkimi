@@ -3,7 +3,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" /> Hello, I'm **Martin Ikimi**
 
-### 💻 Full-Stack Developer | 🌍 Nairobi, Kenya | 🚀 Building tech that solve universal pain points  
+### 💻 Back end Developer | 🌍 Nairobi, Kenya | 🚀 Building tech that solve universal pain points  
 
 ---
 
